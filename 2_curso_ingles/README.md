@@ -2,7 +2,7 @@
 
 Diseñar un curso para un doctorado en educación requiere un enfoque de **Inglés para Fines Académicos (EAP)**. No se trata de aprender a "hablar" inglés, sino de dominar la **decodificación de textos complejos** y la **lógica de las pruebas de opción múltiple**.
 
-Aquí tienes una propuesta de curso intensivo estructurado en 4 módulos estratégicos:
+Esta es una propuesta de curso intensivo estructurado en 4 módulos estratégicos:
 
 
 # Curso: Estrategias de Comprensión Lectora y Suficiencia en Inglés (Doctorado)
@@ -24,7 +24,7 @@ Aquí tienes una propuesta de curso intensivo estructurado en 4 módulos estrat�
 * **Terminología de Investigación:** Palabras clave como *bias, sample, findings, framework, assessment, pedagogy*.
 * **Palabras "Falsos Amigos" (False Cognates):** Evitar errores comunes con palabras como *actually* (de hecho, no actualmente) o *eventually* (finalmente, no eventualmente).
 
-### Módulo 3: Técnicas de Lectura Veloz (Skimming & Scanning)
+## Módulo 3: Técnicas de Lectura Veloz (Skimming & Scanning)
 
 *Estrategias para optimizar el tiempo en el examen.*
 
@@ -32,7 +32,7 @@ Aquí tienes una propuesta de curso intensivo estructurado en 4 módulos estrat�
 * **Scanning:** Búsqueda de datos específicos (fechas, nombres de autores, porcentajes) sin leer todo el texto.
 * **Identificación de "Topic Sentences":** Leer la primera oración de cada párrafo para reconstruir el argumento del texto en menos de 2 minutos.
 
-### Módulo 4: Estrategias para Opción Múltiple (Multiple Choice)
+## Módulo 4: Estrategias para Opción Múltiple (Multiple Choice)
 
 *Psicometría y lógica para descartar opciones.*
 
